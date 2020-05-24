@@ -34,21 +34,3 @@ h = {letter: sentence.count(letter) for letter in sentence}
 sorted_h = sorted(h.items(), key=lambda item: item[1], reverse=True)
 print(h)
 pprint(sorted_h, width=10)
-
-
-
-
-
-
-
-
-
-
-b = {'a': 2, 'b': 33, 'c': 22, 'd': 12, 'e': 442, 'f': 22, 'g': 32}
-# print(b)
-
-c = dict(a=2, b=3, v=4, c=2, x=2, s=2, w=2, q=2)
-# print(c)
-
-d = [("a", 2), ("b", 3), ("v", 4), ("c", 2),
-     ("x", 2), ("s", 2), ("w", 2), ("s", 2)]
