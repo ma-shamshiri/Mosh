@@ -29,28 +29,3 @@ print(f"5 is interpreted as {bool(5)}")
 print(f"\"\" is interpreted as {bool('')}")
 print(f"None is interpreted as {bool(None)}")
 print(f"False is interpreted as {bool('False')}")
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      print(f"0 is interpreted as {bool(0)}")
-print(f"-1 is interpreted as {bool(-1)}")
-print(f"1 is interpreted as {bool(1)}")
-print(f"5 is interpreted as {bool(5)}")
-print(f"\"\" is interpreted as {bool('')}")
-print(f"None is interpreted as {bool(None)}")
-print(f"False is interpreted as {bool('False')}")
-
